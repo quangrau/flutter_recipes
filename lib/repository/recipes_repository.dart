@@ -1,4 +1,4 @@
-import 'package:cooking/models/recipes_search_result.dart';
+import 'package:cooking/model/recipes_search_result.dart';
 import 'package:cooking/repository/recipes_client.dart';
 
 class RecipesRepository {

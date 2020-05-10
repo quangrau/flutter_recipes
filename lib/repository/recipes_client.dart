@@ -1,4 +1,4 @@
-import 'package:cooking/models/recipes_search_response.dart';
+import 'package:cooking/model/recipes_search_response.dart';
 import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
 import 'dart:convert' show json;
