@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 import 'package:cooking/constants.dart';
-import 'package:cooking/ui/components/recipe_list.dart';
+import 'package:cooking/ui/widgets/recipe_list.dart';
 
 class HomePage extends StatelessWidget {
   @override

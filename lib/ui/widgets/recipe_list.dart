@@ -1,6 +1,6 @@
 import 'package:cooking/bloc/recipes_bloc.dart';
 import 'package:flutter/material.dart';
-import 'package:cooking/ui/components/recipe_list_item.dart';
+import 'package:cooking/ui/widgets/recipe_list_item.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 
 class RecipeList extends StatefulWidget {

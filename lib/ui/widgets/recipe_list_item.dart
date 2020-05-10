@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 
 import 'package:cooking/constants.dart';
 import 'package:cooking/models/recipe_result.dart';
-import 'package:cooking/ui/components/basic_card.dart';
+import 'package:cooking/ui/widgets/basic_card.dart';
 
 class RecipeListItem extends StatelessWidget {
   final RecipeResult recipe;
