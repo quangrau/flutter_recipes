@@ -1,4 +1,4 @@
-# cooking
+# My Recipes App
 
 A new Flutter project.
 
